@@ -173,4 +173,3 @@ LocalDoc Team
 For more information about the underlying technologies:
 - [FAISS](https://github.com/facebookresearch/faiss)
 - [BEIR Benchmark](https://github.com/beir-cellar/beir)
-
