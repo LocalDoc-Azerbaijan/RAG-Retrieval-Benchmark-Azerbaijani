@@ -1,0 +1,6 @@
+intfloat/multilingual-e5-base
+intfloat/multilingual-e5-small
+Snowflake/snowflake-arctic-embed-l-v2.0
+sentence-transformers/LaBSE
+BAAI/bge-m3
+LocalDoc/TEmA-small
