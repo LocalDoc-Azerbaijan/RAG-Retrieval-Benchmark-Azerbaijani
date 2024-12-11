@@ -143,22 +143,7 @@ Example evaluation results for different models:
 | sentence-transformers/LaBSE | 51.51% |
 | LocalDoc/TEmA-small | 50.68% |
 
-## Advantages Over BEIR
 
-1. **Memory Efficiency**
-   - Vectors stored on disk instead of RAM
-   - Batch processing of large datasets
-   - Ability to handle multiple models sequentially
-
-2. **Persistence**
-   - Computed vectors are saved for future use
-   - Faster subsequent evaluations
-   - Reduced computational overhead
-
-3. **Scalability**
-   - Support for larger datasets
-   - Efficient handling of multiple models
-   - Resource-efficient evaluation process
 
 ## License
 
