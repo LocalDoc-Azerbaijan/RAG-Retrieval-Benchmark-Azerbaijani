@@ -254,7 +254,8 @@ def main():
         'LocalDoc/arguana_az',
         'LocalDoc/fiqa_az',
         'LocalDoc/hotpotqa_az',
-        'LocalDoc/treccovid_az'
+        'LocalDoc/treccovid_az',
+        'LocalDoc/scifact_az'
     ]
     
     # Create directories
