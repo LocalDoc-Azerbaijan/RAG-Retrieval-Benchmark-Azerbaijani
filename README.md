@@ -138,7 +138,9 @@ Example evaluation results for different models:
 |-------|----------------|
 | BAAI/bge-m3 | 65.80% |
 | Snowflake/snowflake-arctic-embed-l-v2.0 | 64.52% |
+| openai/text-embedding-3-large | 62.35% |
 | intfloat/multilingual-e5-base | 61.38% |
+| cohere/embed-multilingual-v3.0 | 60.54% |
 | intfloat/multilingual-e5-small | 58.98% |
 | sentence-transformers/LaBSE | 51.51% |
 | LocalDoc/TEmA-small | 50.68% |
