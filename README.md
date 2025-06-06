@@ -144,8 +144,9 @@ Example evaluation results for different models:
 | intfloat/multilingual-e5-small | 58.98% |
 | sentence-transformers/LaBSE | 51.51% |
 | LocalDoc/TEmA-small | 50.68% |
-
-
+| LocalDoc/az-en-MiniLM-L6-v2 | 49.88% |
+| sentence-transformers/paraphrase-multilingual-mpnet-base-v2 | 47.61% |
+| sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 | 31.09% |
 
 ## License
 
