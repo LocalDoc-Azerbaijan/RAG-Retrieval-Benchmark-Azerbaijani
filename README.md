@@ -147,7 +147,7 @@ Example evaluation results for different models:
 | LocalDoc/az-en-MiniLM-L6-v2 | 49.88% |
 | sentence-transformers/paraphrase-multilingual-mpnet-base-v2 | 47.61% |
 | sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 | 31.09% |
-
+| sentence-transformers/all-MiniLM-L6-v2 | 24.25% |
 ## License
 
 MIT License
