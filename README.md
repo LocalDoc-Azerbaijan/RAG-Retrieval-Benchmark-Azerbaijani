@@ -55,12 +55,7 @@ The system evaluates semantic search models by:
 
 ### Requirements
 ```bash
-pip install sentence-transformers
-pip install torch
-pip install datasets
-pip install pandas
-pip install numpy
-pip install tqdm
+pip install sentence-transformers torch datasets pandas numpy tqdm
 ```
 
 ### FAISS Installation
