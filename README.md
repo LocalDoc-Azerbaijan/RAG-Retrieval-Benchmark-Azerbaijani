@@ -71,7 +71,8 @@ For GPU support:
 pip install faiss-gpu
 ```
 
-Note: `faiss-gpu` requires CUDA to be installed on your system.
+Note: `faiss-gpu` requires CUDA to be installed on your system. This package supports up to Python version **3.10**. For newer versions of Python, you can use the following package instead: [faiss-gpu-cu12](https://pypi.org/project/faiss-gpu-cu12/)
+
 
 ## Usage
 
