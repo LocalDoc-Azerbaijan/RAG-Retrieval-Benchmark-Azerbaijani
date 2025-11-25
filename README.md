@@ -132,6 +132,7 @@ Example evaluation results for different models:
 
 | Model | Average NDCG@10 |
 |-------|----------------|
+| Alibaba-NLP/gte-Qwen2-7B-instruct | 77.18% |
 | BAAI/bge-m3 | 65.80% |
 | Snowflake/snowflake-arctic-embed-l-v2.0 | 64.52% |
 | openai/text-embedding-3-large | 62.35% |
@@ -139,6 +140,8 @@ Example evaluation results for different models:
 | intfloat/multilingual-e5-base | 61.38% |
 | cohere/embed-multilingual-v3.0 | 60.54% |
 | intfloat/multilingual-e5-small | 58.98% |
+| Qwen/Qwen3-Embedding-0.6B | 55.41% |
+| Qwen/Qwen3-Embedding-4B | 54.97% |
 | sentence-transformers/LaBSE | 51.51% |
 | LocalDoc/TEmA-small | 50.68% |
 | LocalDoc/az-en-MiniLM-L6-v2 | 49.88% |
